@@ -1,3 +1,3 @@
 # SettingsReport
 
-Hello World! This is my commit.
+Hello World! This is my commit!
